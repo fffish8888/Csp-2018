@@ -1,0 +1,447 @@
+>fig|511145.12.peg.1025|b0989|VBIEscCol129921_1025|   Cold shock protein of CSP family => CspF/CspH (naming convention as in E.coli)   [Escherichia coli str. K-12 substr. MG1655 | 511145.12]
+ttgtcccgtaaaatgacaggaattgtcaaaacctttgatcgcaaaagcggcaaaggattc
+attatcccctccgacggtcgtaaagaagttcaggtccatatttccgcattcactccccgc
+gacgcagaagtgcttataccaggattacgtgtggaattttgccgcgtaaatggcctgcga
+ggaccaacagcggcaaatgtttatctctcttaa
+>fig|511145.12.peg.1026|b0990|VBIEscCol129921_1026|   Cold shock protein of CSP family => CspB/CspG/CspI (naming convention as in E.coli)   [Escherichia coli str. K-12 substr. MG1655 | 511145.12]
+atgtctaataaaatgactggtttagtaaaatggtttaacgcagataaaggttttggcttt
+atcactcctgatgatggcagcaaagacgttttcgtccatttcaccgccatccagagcaat
+gaattccgcacgctgaacgaaaatcagaaagttgaattttctattgagcaggggcaacgt
+ggccccgcggcagcgaacgttgttacgctctaa
+>fig|511145.12.peg.1623|b1552|VBIEscCol129921_1623|   Cold shock protein of CSP family => CspB/CspG/CspI (naming convention as in E.coli)   [Escherichia coli str. K-12 substr. MG1655 | 511145.12]
+atgtctaacaaaatgactggtttagtgaaatggtttaaccctgaaaaaggttttggtttc
+atcacgccgaaagatggcagcaaagatgtgtttgtccatttctcagcaattcagagcaac
+gatttcaaaacattaactgagaatcaggaagttgaatttggtattgagaacggacctaaa
+ggtcctgccgctgttcatgtagtggcgctttga
+>fig|511145.12.peg.1628|b1557|VBIEscCol129921_1628|   Cold shock protein of CSP family => CspB/CspG/CspI (naming convention as in E.coli)   [Escherichia coli str. K-12 substr. MG1655 | 511145.12]
+atgtcaaataaaatgactggtttagtaaaatggtttaacgctgataaaggtttcggcttt
+atttctcctgttgatggtagtaaagatgtgtttgtgcatttttctgcgattcagaatgat
+aattatcgaaccttatttgaaggtcaaaaggttaccttctctatagagagtggtgctaaa
+ggtcctgcagcagcaaatgtcatcattactgattaa
+>fig|511145.12.peg.1629|b1558|VBIEscCol129921_1629|   Cold shock protein of CSP family => CspF/CspH (naming convention as in E.coli)   [Escherichia coli str. K-12 substr. MG1655 | 511145.12]
+ttgtcccgtaaaatgacaggaattgtcaaaacctttgacggcaaaagcggcaagggtctt
+atcaccccatccgatggtcgtatcgatgtccagcttcatgtttcagcgctcaatctccgc
+gatgcagaagaaattaccaccggattacgcgtggaattttgccggataaatggtctgcgt
+ggcccttcagctgccaatgtttacctttcatga
+>fig|511145.12.peg.1900|b1823|VBIEscCol129921_1900|   Cold shock protein of CSP family => CspC (naming convention as in E.coli)   [Escherichia coli str. K-12 substr. MG1655 | 511145.12]
+atggcaaagattaaaggtcaggttaagtggttcaacgagtctaaaggttttggcttcatt
+actccggctgatggcagcaaagatgtgttcgtacacttctccgctatccagggtaatggc
+ttcaaaactctggctgaaggtcagaacgttgagttcgaaattcaggacggccagaaaggt
+ccggcagctgttaacgtaacagctatctga
+>fig|511145.12.peg.3669|b3556|VBIEscCol129921_3669|   Cold shock protein of CSP family => CspA (naming convention as in E.coli)   [Escherichia coli str. K-12 substr. MG1655 | 511145.12]
+atgtccggtaaaatgactggtatcgtaaaatggttcaacgctgacaaaggcttcggcttc
+atcactcctgacgatggctctaaagatgtgttcgtacacttctctgctatccagaacgat
+ggttacaaatctctggacgaaggtcagaaagtgtccttcaccatcgaaagcggcgctaaa
+ggcccggcagctggtaacgtaaccagcctgtaa
+>fig|511145.12.peg.653|b0623|VBIEscCol129921_0653|   Cold shock protein of CSP family => CspE (naming convention as in E.coli)   [Escherichia coli str. K-12 substr. MG1655 | 511145.12]
+atgtctaagattaaaggtaacgttaagtggtttaatgagtccaaaggattcggtttcatt
+actccggaagacggcagcaaagacgtgttcgtacacttctctgcaatccagactaatggt
+tttaaaactcttgctgaaggtcagcgcgtagagttcgaaatcactaacggtgccaaaggc
+ccttctgctgcaaacgtaatcgctctgtaa
+>fig|511145.12.peg.910|b0880|VBIEscCol129921_0910|   Cold shock protein of CSP family => CspD (naming convention as in E.coli)   [Escherichia coli str. K-12 substr. MG1655 | 511145.12]
+atggaaaagggtactgttaagtggttcaacaatgccaaagggtttggtttcatctgccct
+gaaggcggcggcgaagatattttcgctcattattccaccattcagatggatggttacaga
+acgctaaaagctggacaatccgttcagtttgatgtccaccaggggccaaaaggcaatcac
+gccagtgttattgtgcccgtcgaagtagaagcggcagtcgcatag
+>fig|273123.10.peg.1385|YPTB1088|VBIYerPse22266_1385|   Cold shock protein of CSP family => CspE (naming convention as in E.coli)   [Yersinia pseudotuberculosis IP 32953 | 273123.10]
+atgtctaagattaaaggtagcgttaagtggttcaatgaatccaaaggtttcggcttcatt
+accccagaagatggtagcaaggacgtttttgttcatttttctgccatcgctagcaatggt
+ttcaaaacgcttgctgaaggccagcgtgtagaatttgaaatcacgaacggtgccaaaggg
+ccatctgctgctaatgttatcgctatctaa
+>fig|273123.10.peg.1748|YPTB1392|VBIYerPse22266_1748|   Cold shock protein of CSP family => CspD (naming convention as in E.coli)   [Yersinia pseudotuberculosis IP 32953 | 273123.10]
+atggagacgggtactgttaaatggttcaacaacgccaaaggttttggctttatttgccct
+gagggcggtggcgaagacattttcgctcactattcaactatccagatggatggttaccga
+acattaaaagccggccaaatagttaactttgatgttcatgaaggccccaaagggaaccat
+gctagcctgattgttccgctagagttaaatagtgtaccaccgttagacggtgtatcaccg
+ccggaactcgctatactggcctga
+>fig|273123.10.peg.1784|YPTB1423|VBIYerPse22266_1784|   Cold shock protein of CSP family   [Yersinia pseudotuberculosis IP 32953 | 273123.10]
+atgacgttaaaaatggggcgcgtgaagtggttcaaccagtcggaaggctacggtttcatt
+tcaccacacgatggtggttcggatgtttatgtcaacaaaacggccattgccaacaccaaa
+aacaaatcactgaatgaagggcaggacgttgagttttctacatatcgtagtattcacgga
+ccgtcagcagcagatgtgatcgctttctaa
+>fig|273123.10.peg.2020|YPTB1624|VBIYerPse22266_2020|   Cold shock protein of CSP family => CspC (naming convention as in E.coli)   [Yersinia pseudotuberculosis IP 32953 | 273123.10]
+atggcaaagatcaaaggtcaagttaagtggttcaacgagtctaaaggcttcggtttcatc
+actccagcagatggcagcaaagatgtgtttgtacacttctctgcaatccaaggtaatggc
+ttcaaaaccttggctgaaggccagaacgtagagttcgaaatccaagacggtcagaaaggt
+ccgtctgcagtaaacgttactgcaatctaa
+>fig|273123.10.peg.2945|YPTB2414|VBIYerPse22266_2945|   Cold shock protein of CSP family => CspC (naming convention as in E.coli)   [Yersinia pseudotuberculosis IP 32953 | 273123.10]
+atgtctaacatgatgaaaggtcaagtaaagtggttcaacgagtctaaaggcttcggtttc
+atcactccagctgatggcagcaaagacgtgttcgttcacttctctgctatccaagatcaa
+ggcttcaagaccctggctgaaggccagaatgtacagttctctatcgagaacggtgctaaa
+ggtccgtctgcagcaaacgtaactgcaatctaa
+>fig|273123.10.peg.3581|YPTB2950|VBIYerPse22266_3581|   Cold shock protein of CSP family => CspB/CspG/CspI (naming convention as in E.coli)   [Yersinia pseudotuberculosis IP 32953 | 273123.10]
+atgtctaataaaatgactggtttggtaaaatggtttgatgctggtaaaggttttggtttt
+atttctcctgcagacggcagcaaagatgtatttgtacatttctctgcaatccagggtaat
+gactacaaaactcttgatgaaggccagaacgttgagttcagcatcgagcaaggccaaaaa
+ggcccttcagctgtaaacgttgtagcactgtaa
+>fig|273123.10.peg.4303|YPTB3585|VBIYerPse22266_4303|   Cold shock protein of CSP family => CspB/CspG/CspI (naming convention as in E.coli)   [Yersinia pseudotuberculosis IP 32953 | 273123.10]
+atgtctaataaaatgactggtttagtaaaatggtttgacgctggtaaaggttttggtttc
+atctctccggctgatggcagcaaagatgtgttcgttcacttctctgctatccagagtaat
+gatttcaaaaccctggatgaaggccaaaatgtggagttctctatcgagaacggcgctaaa
+ggcccctcagcagtaaacgtaatcgccctgtaa
+>fig|273123.10.peg.4305|YPTB3587|VBIYerPse22266_4305|   Cold shock protein of CSP family => CspB/CspG/CspI (naming convention as in E.coli)   [Yersinia pseudotuberculosis IP 32953 | 273123.10]
+atgtctaataaaatgactggtttagtaaaatggtttgacgctggtaaaggttttggtttc
+atcactccggctgatggcggcaaagatgtgttcgttcacttctctgctatccagagcaat
+gatttcaaaaccctggatgaaggccaaaatgtggagttctctatcgagaacggcgctaaa
+ggccctgcagcggtaaacgttattgcgctgtaa
+>fig|393305.7.peg.1042|YE0940|VBIYerEnt11519_1042|   Cold shock protein of CSP family => CspB/CspG/CspI (naming convention as in E.coli)   [Yersinia enterocolitica subsp. enterocolitica 8081 | 393305.7]
+atgtctaataaaatgactggtttagttaaatggtttgatgctggtaaaggttttggtttt
+atttctcctgcagacggcagcaaagatgtattcgtacatttctctgcaatccagggtaat
+gattacaaaactcttgatgaaggccagaacgttgagttcagcatcgagcaaggccagaaa
+ggcccttcagctgtaaacgtagtcgcactgtaa
+>fig|393305.7.peg.1641|YE1516|VBIYerEnt11519_1641|   Cold shock protein of CSP family => CspD (naming convention as in E.coli)   [Yersinia enterocolitica subsp. enterocolitica 8081 | 393305.7]
+atggagacgggtactgttaaatggttcaacaatgccaaaggttttggcttcatttgccct
+gagggcggcggcgaagatatattcgctcactattcgactatccagatggatggctaccga
+acgttaaaagccggtcaaatggttaactttgatgtccatcaagggccaaaagggaaccat
+gccagcctgattgtaccactaggattagatgtggtactgcaagaagccataccgcaggaa
+cacgctgcattggcctga
+>fig|393305.7.peg.1673|YE1546|VBIYerEnt11519_1673|   Cold shock protein of CSP family => CspC (naming convention as in E.coli)   [Yersinia enterocolitica subsp. enterocolitica 8081 | 393305.7]
+atgtctaagaagactggtcaggttaagtggttcaacgaagctaaaggttttggttttatt
+gaacagcatgatggcggtaaagatgtgtttgttcacttctccgcaatcgcaactgatggt
+ttcaagactttggctgaaggccagcgtgttgaatataccatccaagacagcccgcgcggg
+ccggctgctgcgaacgttgttgctctgtaa
+>fig|393305.7.peg.1674|YE1547|VBIYerEnt11519_1674|   Cold shock protein of CSP family   [Yersinia enterocolitica subsp. enterocolitica 8081 | 393305.7]
+atgacgttaaaaatgggtcgcgtgaaatggttcaatcagtccgaaggctacggtttcatt
+tcaccacacgacggtagtttggatgtgtatgtcagcaagacagccattgccaacaccaaa
+aacaaatcactgagtgaagggcaggacgttgaattctctacttatcgtagtattcacggg
+ccgtcagccgcagatgtgatcgctttctaa
+>fig|393305.7.peg.1915|YE1765|VBIYerEnt11519_1915|   Cold shock protein of CSP family => CspC (naming convention as in E.coli)   [Yersinia enterocolitica subsp. enterocolitica 8081 | 393305.7]
+atggcaaagatcaaaggtcaagttaagtggttcaacgagtctaaaggtttcggtttcatc
+actccagctgacggcagcaaagatgtgttcgtacacttctctgcaatccagggtaatggc
+ttcaaaaccctggctgaaggccagaacgtagagttcgaaatccaagacggtcagaaaggt
+ccgtctgcagtaaacgttactgcaatctaa
+>fig|393305.7.peg.3207|YE3012|VBIYerEnt11519_3207|   Cold shock protein of CSP family => CspE (naming convention as in E.coli)   [Yersinia enterocolitica subsp. enterocolitica 8081 | 393305.7]
+atgtctaagattaaaggtagcgttaagtggttcaatgaagctaaaggctttggttttatt
+accccagaagatggcagcaaggacgttttcgttcatttctcagccatcgctagcaacggt
+ttcaaaactcttgctgaaggccagcgtgtagaatttgaaatcacgagcggtgccaaaggg
+ccatcagctgctaatgttatcgctatctaa
+>fig|393305.7.peg.4067|YE3821|VBIYerEnt11519_4067|   Cold shock protein of CSP family => CspB/CspG/CspI (naming convention as in E.coli)   [Yersinia enterocolitica subsp. enterocolitica 8081 | 393305.7]
+atgtctaataaaatgactggtttagtaaaatggtttgacgctggtaaaggttttggtttc
+atcactcctgctgatggcagcaaagacgtgttcgttcacttctctgctatccaaagcaat
+gatttcaaaaccttagatgaaggccaaaaagtggagttctctatcgagagcggcgctaaa
+ggcccatcagcggtaaacgtagtcgctctgtaa
+>fig|393305.7.peg.4069|YE3823|VBIYerEnt11519_4069|   Cold shock protein of CSP family => CspB/CspG/CspI (naming convention as in E.coli)   [Yersinia enterocolitica subsp. enterocolitica 8081 | 393305.7]
+atgtctaataaaatgactggtttagtaaaatggtttaacgctgataaaggttttggtttc
+attacgcctgctgacggcagcaaagatgtgttcgttcacttctctgctatccagagcaat
+gatttcaaaaccctagatgaaggtcaaaaagttgagttctctatcgagaatggcgctaaa
+ggcccatcagcggtaaacgttattgctctgtaa
+>fig|107806.10.peg.334|BU322|VBIBucAph127364_0334|   Cold shock protein of CSP family => CspC (naming convention as in E.coli)   [Buchnera aphidicola str. APS (Acyrthosiphon pisum) | 107806.10]
+atggctaagattaaaggtcaagttaagtggttcaacgaatctaaaggttttggttttatt
+acaccatcagacggaagtaaagacgtttttgttcacttttcttcaattcaggggaatgga
+tttaaaacattaactgaaggccaaaatgttgaatttgaaattcaagatggacaaaaagga
+cctgccgcagtaaatgttttttctctataa
+>fig|107806.10.peg.497|BU489|VBIBucAph127364_0497|   Cold shock protein of CSP family => CspE (naming convention as in E.coli)   [Buchnera aphidicola str. APS (Acyrthosiphon pisum) | 107806.10]
+atgtccaagattaaaggtaatgttaagtggtttaatgaatctaaaggttttggttttatt
+actccagaagacggtagtaaggatgtgtttgttcatttttcagcaatacaaagcaatgga
+tttaaaactttagcagaaggtcagagtgttgaattcgaaatcaccgaaggagcaaaagga
+ccatctgccgctaatgttattagtttataa
+>fig|122586.8.peg.1050|NMB0838|VBINeiMen85645_1050|   Cold shock protein of CSP family   [Neisseria meningitidis MC58 | 122586.8]
+atggcaaccggtatcgtaaaatggtttaacgacgctaaaggttttggtttcatcacgcct
+gatgaaggcggcgaagatttgttcgctcacttctcagcaatcaatatggaaggtttcaaa
+accctgaaagaaggccaacgcgtctctttcgacgtaaccaccggccctaaaggcaaacag
+gccgccaacattcaggctgcttaa
+>fig|1329363.3.peg.395|YEP1_01857|VBIYerEnt291904_0395|   Cold shock protein of CSP family => CspD (naming convention as in E.coli)   [Yersinia enterocolitica subsp. palearctica YE-P1 | 1329363.3]
+atggagacgggtactgttaaatggttcaacaatgccaaaggttttggcttcatttgccct
+gagggcggcggcgaagatatattcgctcactattcaactatccagatggatggctatcga
+acgttaaaagccggtcagatggttaactttgctgtccatcaagggcccaaagggaaccat
+gccagcctgattgtaccactaggattagatgtggtactgcaagaagccataccgcaggaa
+cacgctgcattggcctga
+>fig|1329363.3.peg.2703|YEP1_13141|VBIYerEnt291904_2703|   Cold shock protein of CSP family => CspB/CspG/CspI (naming convention as in E.coli)   [Yersinia enterocolitica subsp. palearctica YE-P1 | 1329363.3]
+atgtctaataaaatgactggtttagtaaaatggtttgacgctggtaaaggttttggtttc
+attacgcctgctgacggcagcaaagacgtgttcgttcacttctctgctatccagagcaat
+gatttcaaaaccctggatgaaggtcaaaaagttgagttctctatcgagaatggcgctaaa
+ggcccatcagcggtaaacgtagtcgccctgtaa
+>fig|1329363.3.peg.2704|YEP1_13146|VBIYerEnt291904_2704|   Cold shock protein of CSP family => CspB/CspG/CspI (naming convention as in E.coli)   [Yersinia enterocolitica subsp. palearctica YE-P1 | 1329363.3]
+atgtctaataaaatgactggtttagtaaaatggtttaacgctgataaaggttttggtttc
+attacgcctgctgacggcagcaaagacgtgttcgttcacttctctgctatccagagcaat
+gatttcaaaaccctggatgaaggtcaaaaagttgagttctctatcgagaatggtgctaaa
+ggcccatcagcggtaaacgttattgctctgtaa
+>fig|1444770.3.peg.2251|AF72_09490|VBIXylFas338414_2251|   Cold shock protein of CSP family   [Xylella fastidiosa PLS229 | 1444770.3]
+atgtctgatgatcgtcagataggtacggtgaagtggttcaatgataataagggctttggc
+ttcatcacagcagagtctggtcccgacctgttcgtccattaccgcgcgattcagggtaac
+ggatttaagtcgcttcaggagggtcagaaggtttccttcattgctgtgcaaggccaaaaa
+ggtatgcaggctgaccaggtccaggttctgtaa
+>fig|160490.10.peg.1800|SPy_2077|VBIStrPyo79812_1800|   Cold shock protein of CSP family   [Streptococcus pyogenes M1 GAS | 160490.10]
+atggcacaaggtacagtaaaatggtttaatgctgaaaaaggttttggttttatttcaact
+gaaaacggtcaagatgtctttgcacatttttcagccatccaaactaatggttttaaaacg
+ttagaagaaggacaaaaagtggcatttgacgtcgaagaaggtcaacgtggacctcaagca
+gtcaatatcactaaattggcctaa
+>fig|169963.11.peg.1401|lmo1364|VBILisMon69206_1401|   Cold shock protein of CSP family   [Listeria monocytogenes EGD-e | 169963.11]
+atggaacaaggtacagtaaaatggtttaacgcagaaaaaggatttggttttatcgaacgc
+gaaaacggtgacgatgtattcgtacatttcagcgctatccaaggcgacggattcaaatct
+ttagacgaaggtcaagcagtaactttcgacgttgaagaaggccaacgcggacctcaagca
+gctaacgttcaaaaagcgtaa
+>fig|169963.11.peg.1924|lmo1879|VBILisMon69206_1924|   Cold shock protein of CSP family => CspD (naming convention as in B.subtlis)   [Listeria monocytogenes EGD-e | 169963.11]
+atgcaaaatgggaaagtaaaatggtttaacaatgaaaagggttacggttttatcgaatca
+gacggcggcgaagatattttcgttcacttcacagcgatccaaggtgacggctacaaatct
+ttagaagaaggccaagcggtaacatttgaagtagttgaaggtaatcgcggcgctcaagca
+gctaacgtagaaaaagcctaa
+>fig|169963.11.peg.2064|lmo2016|VBILisMon69206_2064|   Cold shock protein of CSP family   [Listeria monocytogenes EGD-e | 169963.11]
+atgcaaacaggtacagttaaatggtttaacagtgaaaaaggcttcggtttcatcgaagta
+gaaggcggagacgatgtattcgtacacttcagcgctatcgaaggtgaaggattcaaaact
+ttagacgaaggtcaaagcgttgaatttgaaatcgttgaaggccaacgtggcccacaagca
+gaaaaagttactaaactttaa
+>fig|190304.8.peg.1097|FN0528|VBIFusNuc122357_1097|   Cold shock protein of CSP family   [Fusobacterium nucleatum subsp. nucleatum ATCC 25586 | 190304.8]
+atgaaaggtactgtaaaatggtttaacaaagaaaaaggatttggatttatcacaggagaa
+gatggaaaagatgtttttgcacacttttctcaaattcaaaaagaaggatttaaagaatta
+tttgaaggacaagaagtagaatttgaaattactgaaggacaaaaaggacctcaagcttca
+aatatcgttgttattaaatag
+>fig|190650.5.peg.2636|CC_2623|VBICauCre124313_2636|   Cold shock protein of CSP family   [Caulobacter crescentus CB15 | 190650.5]
+atggcgaacggtgtcgttaagtggttcaacccggccaagggctttggcttcattcagccc
+gaggacggcggccaggacgtgttcgtccacatcgccgcggttgaacgctcgggtctgtcg
+ggcctgaacgagggtgatcaagtcgcgtacgaactggaagaagaccgccgctcgggcaag
+acctcggccggcaacctgcgcatcctctaa
+>fig|190650.5.peg.2907|CC_2903|VBICauCre124313_2907|   Cold shock protein of CSP family   [Caulobacter crescentus CB15 | 190650.5]
+atggcgactggaaccgtgaagtggttcaactccaccaagggcttcggcttcatccaaccc
+gacaacggcggcgcggacatcttcgtccacatctcggccgttgagcgctcgggcctcggc
+tcgctgaacgaaggtcagaagatctcgtacgagcccgaagtcgaccgccgcagcggcaag
+acctcggccggccagctgcaagcggcctaa
+>fig|190650.5.peg.675|CC_0665|VBICauCre124313_0675|   Cold shock protein of CSP family   [Caulobacter crescentus CB15 | 190650.5]
+atggctaccggcaccgtaaagtggttcaacgccgccaagggctttggcttcattcaaccc
+agcgatggctctgcggacgcgttcgtccatatctcggccgtcgagcgctcaggcctgggt
+tcgattgatgaaggtcagaagctcaactacgagctcgaacgcgaccaacgcagcggcaag
+atgtccgccgggcagttgaccgcagcgtaa
+>fig|195102.6.peg.1314|CPE1242|VBICloPer59675_1314|   Cold shock protein of CSP family   [Clostridium perfringens str. 13 | 195102.6]
+atgagtagtagaactggaatagtaaaatggtttaatcaagagaaaggctatggctttatt
+tcttgtgatgaaggtgatgatgtatttgtacatatctcacaagtgaaggaaaaaggacct
+gaaaaagatttacatgaaggtgaaagtgtttcttttgatataagcgaaggggaaaaaggc
+ccaatggctactaatgttcaaaagctataa
+>fig|196627.13.peg.177|NCgl0171|VBICorGlu203724_0177|   Cold shock protein of CSP family   [Corynebacterium glutamicum ATCC 13032 (Prj:307) | 196627.13]
+atggcacagggtactgtgaaatggttcaacggcgaaaagggatttggtttcatcgctccc
+aacgatggctccgcagatctcttcgtccactactctgagattcagggctccggtttccgt
+aatcttgaggaaaaccagccagttgaatttgaggtcggcgagggcgccaagggcccacag
+gctcagcaggttcgtgctctctaa
+>fig|196627.13.peg.312|NCgl0303|VBICorGlu203724_0312|   Cold shock protein of CSP family   [Corynebacterium glutamicum ATCC 13032 (Prj:307) | 196627.13]
+atggcacagggcactgttaagtggttcaacccagagaagggcttcggcttcatcgctcct
+tccgacggatccgctgacgttttcgtccactactccgagatcgagggcaacggcttccgt
+accctcgaggagaaccagctcgtcgagttcgaaatcggcgagggcgctaagggccttcag
+gctcaggctgttcgtgcaatctaa
+>fig|208964.12.peg.2744|PA2622|VBIPseAer58763_2744|   Cold shock protein of CSP family => CspD (naming convention as in E.coli)   [Pseudomonas aeruginosa PAO1 | 208964.12]
+atgctcagcggtaaggtcaagtggttcaacaacgccaagggctacgggttcatcctggcc
+gagggccgagatgaggacctgttcgcccattactcggccattcagatggacggttacaag
+acactcaaggcgggccagccggtcaatttcgagatcatccagggaccgaagggactgcat
+gccatcaacatcagccccgccaccgcgacaaccgccgcaccctccgcccccgccccgcag
+gaagagccgcaggcgacgcccatcgaagcctga
+>fig|208964.12.peg.3415|PA3266|VBIPseAer58763_3415|   Cold shock protein of CSP family   [Pseudomonas aeruginosa PAO1 | 208964.12]
+atgtcgaatcgtcagaacggcaccgtaaaatggttcaacgacgccaaaggcttcggcttc
+atcaccccggaaagcggtaacgacctgttcgttcacttccgttccatccagggcaccggc
+ttcaagagcctgcaggaaggccagaaggtttccttcgtggtcgtcaacggccagaaaggc
+ctgcaagccgacgaagtacaagttgtctaa
+>fig|208964.12.peg.480|PA0456|VBIPseAer58763_0480|   Cold shock protein of CSP family   [Pseudomonas aeruginosa PAO1 | 208964.12]
+atgtcccgtcagaacggcaccgttaagtggttcaacgaaaccaaaggctacggcttcatt
+accccggaaagcggcccggacgttttcgttcacttccgtgccatcgaaggtaacggcttc
+aagaccctggccgaaggccagaaggtcagcttcgaagtcgtacaaggccagaaaggcatg
+caggccgagcgcgttcaggtgatcaactaa
+>fig|224308.43.peg.2286|BSU21930|VBIBacSub10457_2286|   Cold shock protein of CSP family   [Bacillus subtilis subsp. subtilis str. 168 | 224308.43]
+atgcaaaacggtaaagtaaaatggttcaacaacgaaaaaggattcggcttcattgaagtt
+gaaggcggagacgatgtatttgttcacttcacagctatcgaaggagatggatacaaatca
+ttagaagaaggacaagaagtttcttttgaaattgtcgaaggtaatcgtggacctcaagct
+tctaatgttgtaaaactctaa
+>fig|224308.43.peg.534|BSU05120|VBIBacSub10457_0534|   Cold shock protein of CSP family   [Bacillus subtilis subsp. subtilis str. 168 | 224308.43]
+atggaacaaggtacagttaaatggtttaatgcagaaaaaggttttggctttatcgaacgc
+gaaaatggagacgatgtattcgtacacttttctgcaatccaaagtgacggattcaaatct
+ttagacgaaggtcaaaaagtatcgtttgacgttgagcaaggtgctcgtggagctcaagct
+gctaacgttcaaaaagcttaa
+>fig|224308.43.peg.953|BSU09100|VBIBacSub10457_0953|   Cold shock protein of CSP family   [Bacillus subtilis subsp. subtilis str. 168 | 224308.43]
+atgttagaaggtaaagtaaaatggttcaactctgaaaaaggtttcggattcatcgaagta
+gaaggtcaagacgatgtattcgttcatttctctgctattcaaggcgaaggcttcaaaact
+ttagaagaaggccaagctgtttcttttgaaatcgttgaaggaaaccgcggaccacaagct
+gctaacgttactaaagaagcgtaa
+>fig|243274.5.peg.1700|TM1683|VBITheMar51294_1700|   Cold shock protein of CSP family   [Thermotoga maritima MSB8 | 243274.5]
+atgagaggaaaggttaagtggttcgattccaagaagggctacggattcatcacaaaggac
+gaaggaggagacgtgttcgtacactggtcagccatcgaaatggaaggtttcaaaactctg
+aaggaaggccaggtcgtcgagttcgagattcaggaaggcaagaaaggtccacaggcagcg
+cacgtgaaagtagttgagtaa
+>fig|243274.5.peg.1895|TM1874|VBITheMar51294_1895|   Cold shock protein of CSP family   [Thermotoga maritima MSB8 | 243274.5]
+atgagaggtacggttaagtggtttgactccaagaaaggctacggttttatcaccatggag
+aacggagaggacatcttcgttcactggtcagcgatccagatggacggtttcaagaccctc
+agggaaaacgaaacagtcgagttcgaagtccagaaaggtaccaaaggacctcaggctgtc
+aatgtgagacctgttagataa
+>fig|243277.26.peg.1091|VC1142|VBIVibCho83274_1091|   Cold shock protein of CSP family => CspD (naming convention as in E.coli)   [Vibrio cholerae O1 biovar El Tor str. N16961 | 243277.26]
+atggctacaggtacagtgaaatggtttaataatgccaaaggcttcggttttatttgcccg
+gaaggtgaagacggagatattttcgctcattactcaaccattcagatggacggataccgt
+acactcaaagccggtcaacaggtttcttatcaggtggagcaaggtcctaagggataccac
+gcgagctgtgttgtgccaatcgagggacaatcagcaaaatag
+>fig|243277.26.peg.2804|VCA0166|VBIVibCho83274_2804|   Cold shock protein of CSP family   [Vibrio cholerae O1 biovar El Tor str. N16961 | 243277.26]
+atgtctcagaaaatgactggttcagtaaaatggttcaacgaaactaaaggttttggtttc
+atctctcaagacaacggcggtcaagacgtgttcgtacacttcaagtctatcgtttctgaa
+ggcttcaaaactctggctgaaggccagcgtgtaagcttcaccgttgagcaaggcaaaaaa
+ggcccacaagctgctcaagttactgcgctgtaa
+>fig|243277.26.peg.2822|VCA0184|VBIVibCho83274_2822|   Cold shock protein of CSP family   [Vibrio cholerae O1 biovar El Tor str. N16961 | 243277.26]
+atgtctactccagttactggtaccgtgaaatggttcaacgaaactaaaggctttggtttc
+atcaagcaagaaaacggtcctgacgtttttgctcacttcagcgcaatccaaggtgacggt
+ttccgcactctggctgaaggtcaaaaagtggaattcgtgatcactcaaggccagaaaggt
+ccacaagctgaaagcatcaaagttctgtaa
+>fig|243277.26.peg.3545|VCA0933|VBIVibCho83274_3545|   Cold shock protein of CSP family   [Vibrio cholerae O1 biovar El Tor str. N16961 | 243277.26]
+atgtctactaaaatgactggttctgtaaaatggttcaacgaaactaaaggtttcggtttt
+cttactcaagacaacggtggcaacgatgtgtttgttcactttaattctattcagtcagaa
+ggtttcaaaaccttagctgaaggtcaacgtgttagctttatcgttgaacaaggtaagaaa
+ggccctcaagcgtctaacgtagtcgcactgtaa
+>fig|266834.11.peg.101|SMa0181|VBISinMel96828_0101|   Cold shock protein of CSP family   [Sinorhizobium meliloti 1021 | 266834.11]
+atgcctaaaggtactgttaaatttttcaacgacgacaagggttttggcttcatcacgcct
+gaggatggcggaacggacgtcttcgttcacgtgtctgccttgcaacacggcggttcgctg
+aaagagggtgacaaagtcagctacgacgtcggtcaagatcgcaagaccggaaaatcgaag
+gcggaaaacgtatccgtgctttga
+>fig|266834.11.peg.406|SMa0738|VBISinMel96828_0406|   Cold shock protein of CSP family   [Sinorhizobium meliloti 1021 | 266834.11]
+atggcaactggcactgtaaagttcttcgcccaagacaagggctttggcttcattacccct
+gacaatggcggcccagacgtattcgttcacatctcggcgctcggttttggcggttctctt
+caggatggccagaaggtcagctacgagctgggacaagaccgcaagaccggcaagtcgaaa
+gccgagaacgtcagcattctttga
+>fig|266834.11.peg.69|SMa0126|VBISinMel96828_0069|   Cold shock protein of CSP family   [Sinorhizobium meliloti 1021 | 266834.11]
+atgaccactggcacagttaaatggttcaattccaccaagggcttcggtttcatcgcgcct
+gacgacggcagcgccgatgtgttcgttcacatctctgctgttgaacgcgccggcatgaat
+tcgattgtcgaaggtcagaagctcggctttgagctcgagcgcgacaataagtcgggcaag
+atgtccgcaggccagctgcgcgctgcctga
+>fig|266834.11.peg.3348|SMc04234|VBISinMel96828_3348|   Cold shock protein of CSP family   [Sinorhizobium meliloti 1021 | 266834.11]
+atggccaccaaaggcatcgtcaaattcttcaaccaggacaagggttttggtttcatcacg
+ccggaaggcggttcgaaggacgttttcgtccacatcaccgctgtccaggccgcaggcctc
+accacattgaacgatggccaggaggtcagcttcgacacggagccggatcgcatgggcaag
+ggcccgaaggccgtcaacctccaggctctctaa
+>fig|266834.11.peg.3511|SMc04318|VBISinMel96828_3511|   Cold shock protein of CSP family   [Sinorhizobium meliloti 1021 | 266834.11]
+atgaactcaggcaccgtaaagtggttcaacagcaccaagggcttcggcttcattcagccc
+gacgatggcgctacggacgtattcgtgcacgcctccgccgttgaacgcgctggaatgcgt
+tcgctcgtagaaggccagaaggttacctacgacatcgtccgcgacaccaagtccggcaag
+agctcggcagacaatctgcgggccgcataa
+>fig|266834.11.peg.3569|SMc01428|VBISinMel96828_3569|   Cold shock protein of CSP family   [Sinorhizobium meliloti 1021 | 266834.11]
+gtggcttctggaacggtaaagtggttcaacagcaccaagggcttcggtttcatccagcca
+gatgacggcgccgctgacgtgttcgtccatatttcggcggttgaacgcgccggcctgtcc
+acgctgaaagacgggcagaaggtaagcttcgagctgacgcaggatcggcgctcgggcaag
+acctcggcggacaaccttcgcgctctctga
+>fig|266834.11.peg.3810|SMc01585|VBISinMel96828_3810|   Cold shock protein of CSP family   [Sinorhizobium meliloti 1021 | 266834.11]
+atggccgagactggcactgtaaaattcttcaacacagacaagggctttggcttcatcaag
+cctgaaaacggtggcgcggacatcttcgttcatatttctgccgtgcaggcctcgggcctg
+agcggtctcacggaaaaccagaaggtgtccttcgacaccgagccggatcgccgcggcaag
+ggaccgaaggcggtcaacctgcagatcgtcggctaa
+>fig|267608.8.peg.2511|RSc2466|VBIRalSol70888_2511|   Cold shock protein of CSP family   [Ralstonia solanacearum GMI1000 | 267608.8]
+atggcaaacggtacggtcaagtggttcaacgacgccaagggttttggcttcatctctccc
+gacgagggcggcgaagagctgttcgcgcatttctcggcgatccagatgaacggtttcaag
+acgctcaaggaaggccagcgcgtcgcgttcgacgtgacacagggcccgaagggcaagcag
+gccaccaacatccaggccgcctga
+>fig|267608.8.peg.3225|RSc3156|VBIRalSol70888_3225|   Cold shock protein of CSP family   [Ralstonia solanacearum GMI1000 | 267608.8]
+atggaaaccggtaccgtaaagtggttcaacgaatcgaagggttttggcttcatcacgcct
+gacgcgggtggaaacgatctcttcgcgcatttctccgaaattcagggcagcggcttcaaa
+acgctgcaagagggcgagaaggtgcgttacgttgctggcgtcggccaaaagggccccgca
+gccaccaagatcgaacggatctga
+>fig|267608.8.peg.4538|RSp1053|VBIRalSol70888_4538|   Cold shock protein of CSP family   [Ralstonia solanacearum GMI1000 | 267608.8]
+atggctactggtaccgtcaagtggttcaacgacgctaagggtttcggctttattaccccg
+gatgaaggcggcgaggaccttttcgcgcatttctctgcgatcaacatgcaagggttcaag
+accctgaaggaaggtcaacgcgtttcgtttgaaatcacgcaaggcccgaagggcaagcaa
+gcctcgaatatccaggcggcttga
+>fig|267608.8.peg.3485|RSp0002|VBIRalSol70888_3485|   Cold shock protein of CSP family   [Ralstonia solanacearum GMI1000 | 267608.8]
+atggccacgggtactgtcaaatggtttaacgaaaccaaaggcttcggcttcatcactccg
+gacggcggtggcgcggatctgttcgcacacttctcggaaattcagggctccggctttaag
+accctgaaggacggccagaaggtgtccttcgaagtgaagcaaggcccgaagggcctgcaa
+gcctcgggtatcaagccggaataa
+>fig|272623.7.peg.187|L172505|VBILacLac136773_0187|   Cold shock protein of CSP family   [Lactococcus lactis subsp. lactis Il1403 | 272623.7]
+atggcacaaggaactgttaaatggtttaacgcaactaaaggcttcggctttatcactact
+gaagaaggaaacgacgttttcgctcacttctcagctatccaaactgatggattcaaaaca
+cttgacgaaggtcaaaaagttacttttgacgttgaagatggccctcgtggacctcaagct
+gttaacatccaaaaataa
+>fig|272623.7.peg.567|L117090|VBILacLac136773_0567|   Cold shock protein of CSP family   [Lactococcus lactis subsp. lactis Il1403 | 272623.7]
+atggcaaatggaacagtaaaatggtttaacgcagataaaggatttggctttatcacttca
+gaagaaggcaaagatttgttcgctcacttctcagcaatccaatctgatggattcaaatca
+cttgatgaaggtcaaaaagttgaatttgatgttgaagaaggtcaacgtggtcttcaagca
+gtcaatatcacaaaagcataa
+>fig|83332.12.peg.4067|Rv3648c|VBIMycTub87468_4067|   Cold shock protein of CSP family   [Mycobacterium tuberculosis H37Rv | 83332.12]
+atgccacagggaactgtgaagtggttcaacgcggagaaggggttcggctttatcgccccc
+gaagacggttccgcggatgtatttgtccactacacggagatccagggaacgggcttccgc
+acccttgaagaaaaccagaaggtcgagttcgagatcggccacagccctaagggcccccag
+gccaccggagtccgctcgctctga
+>fig|93061.5.peg.1284|SAOUHSC_01403|VBIStaAur99865_1284|   Cold shock protein of CSP family   [Staphylococcus aureus subsp. aureus NCTC 8325 | 93061.5]
+atgaaacaaggtacagttaaatggtttaacgctgaaaaaggattcggctttatcgaagtt
+gaaggagaaaatgacgtattcgtacatttttcagcaattaaccaagatggttacaaatca
+ttagaagaaggtcaagctgttgagtttgaagtagttgaaggcgaccgcggtccacaagct
+gcaaacgttgttaaactataa
+>fig|93061.5.peg.2750|SAOUHSC_03045|VBIStaAur99865_2750|   Cold shock protein of CSP family   [Staphylococcus aureus subsp. aureus NCTC 8325 | 93061.5]
+atgaataacggtacagtaaaatggtttaacgcagaaaaaggttttggtttcatcgaacaa
+gaaaatggcggagacgtattcgtacatttctcaggtatcgctagcgatggctacaaaact
+ttagaagaaggtcaaaaagttactttcgaaatcactgaaggtcaacgtggagaccaagca
+gttaacgtacaaactgtttaa
+>fig|93061.5.peg.740|SAOUHSC_00819|VBIStaAur99865_0740|   Cold shock protein of CSP family   [Staphylococcus aureus subsp. aureus NCTC 8325 | 93061.5]
+atgaataacggtacagttaaatggtttaatgcagaaaaaggttttggtttcatcgaaaga
+gaagatggtagcgacgtattcgtacacttctcagcaatcgctgaagatggatacaaatca
+ttagaagaaggccaaaaagttgaattcgacatcgttgaaggcgaccgtggcgagcaagct
+gcaaacgtagttaaaatgtaa
+>fig|935546.5.peg.2440|A9174_11610|   Cold shock protein of CSP family   [Mesorhizobium loti NZP2037 | 935546.5]
+atgccgcagaccggcaccgtcaaattcttcaaccatgccaaaggcttcggcttcatcacg
+ccggacgatggcgcgaaggatgtcttcgtccatatttcggccgtgcaggcgtcgggtctt
+cccggtctcgaagatgggcagaaagtaacattcgacaccgagccggacaagcgcggcaag
+ggacccaaggccgtcaacctgtcggtcggctga
+>fig|935546.5.peg.2442|A9174_11615|   Cold shock protein of CSP family   [Mesorhizobium loti NZP2037 | 935546.5]
+atggcccagaccggcaccgttaaattcttcaacgcgaccaaaggcttcggtttcatcacg
+cccgacggcggcgccaaggacgtgttcgtccatatttccgcgatcgaggcatcgggcctg
+cgcacgctcgtcgacggccagaaggtcaccttcgacgtcgagccggaccgcatgggcaaa
+ggcccgaaggcggtcaacctccgcgctgcctga
+>fig|935546.5.peg.2449|A9174_11645|   Cold shock protein of CSP family   [Mesorhizobium loti NZP2037 | 935546.5]
+atgaccacgggaatcgtgaaattctacaatggccagaagggttttggcttcattcaacca
+gctgacggcggcaaggacgttttcgtccatgtcagtgcgctggagcgcgccggctttccc
+ggcctcgccgaaggccagaagctgcagttcgacctggagcgtgacggcaagggccgcgag
+tcggccgccaatctgcaactgatctga
+>fig|935546.5.peg.2538|A9174_12040|   Cold shock protein of CSP family   [Mesorhizobium loti NZP2037 | 935546.5]
+atggcaactggaacggtcaagtggttcaacgccaccaagggcttcggcttcatccagcct
+gacgcgggcggcgcggacgttttcgtccacatctccgctgtcgagcgcgctggactgtcg
+accctggtcgaaggccagaagatcaacttcgagatcgagcaggaccgccgcactggcaag
+tcgtccgctggatctctgagcaaggcagcctga
+>fig|935546.5.peg.5567|A9174_26330|   Cold shock protein of CSP family   [Mesorhizobium loti NZP2037 | 935546.5]
+atgagcaccggcacagttaaatggttcaacgccaccaaaggttttggttttattcagcct
+gacgacggctcggccgacgttttcgtccacatctcggctgtagagcgtgccggcatgcgc
+gacatcgtcgagggccagaagctcggttacgagatggtccgcgacaacaagtcgggcaag
+atgtccgccgaccagttgaaggcggcctga
+>fig|935546.5.peg.6529|A9174_30900|   Cold shock protein of CSP family   [Mesorhizobium loti NZP2037 | 935546.5]
+atggcgaccggaacagtgaagtggttcaacagcaccaaagtttttggcttcatccagccc
+gatgacggcggtcaggacgttttcgtccatatttcagctgtagaacgggctggactttca
+aacctcgttgatgggcagaagatcaagtacgagatcgagcaggaccgccgtagcggcaag
+tcctccgcaggtagtctcagcaaggtaggctga
+>fig|935546.5.peg.6721|A9174_31665|   Cold shock protein of CSP family   [Mesorhizobium loti NZP2037 | 935546.5]
+ttggagagcgagggcacggtcaagtggtacaatccccaaaagggcttcggcttcattgct
+cctgaaaacggtgagaaggacatcttcgttcatgccaccgcgctgacccgctcaggactc
+agcatgctgatggagggtcagaaggtgtttgtccaatgcggacagggcaagaaaggcccg
+gaagttcggagcattcgcctcgcttag
+>fig|935546.5.peg.7061|A9174_33045|   Cold shock protein of CSP family   [Mesorhizobium loti NZP2037 | 935546.5]
+atggcgaccggaacggtgaagtggttcaacagcaccaagggatttggatttatccagccc
+gacaatggcggtcaggatgttttcgtccacatttctgctgtcgaacgcgcaggcctctcg
+accctcaccgacggccagaagatcaactatgagatcgaacaggaccgccgtactggcaag
+tcctccgctggcagtctcagcaaagctggctga
+>fig|99287.12.peg.995|STM0943|VBISalEnt20916_0995|   Cold shock protein of CSP family => CspD (naming convention as in E.coli)   [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 | 99287.12]
+atggaaacgggtactgtaaagtggttcaacaatgccaaagggtttggtttcatctgccct
+gaaggcggcggcgaggatattttcgcccattattccaccattcaaatggatggttacaga
+acgcttaaagccggacagtctgtccggtttgatgtccaccaggggccaaaaggcaatcac
+gccagcgtcatcgtgcccatcgaagcagaggccgttgcatag
+>fig|99287.12.peg.1315|STM1243|VBISalEnt20916_1315|   Cold shock protein of CSP family => CspF/CspH (naming convention as in E.coli)   [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 | 99287.12]
+ttgtctcgtaaaatgacaggaattgtcaaaacctttgattgtaagagcggtaaaggtctc
+atcaccccctccgatggacgcaaagatgttcaggtccacatttcagcatgtcgccaacac
+gaaacagaagcgcttatccccggtatacgcgttgagttttgtcgtattaatggcctccgc
+ggacctaccgccgccaacgtttatctttcataa
+>fig|99287.12.peg.1938|STM1837|VBISalEnt20916_1938|   Cold shock protein of CSP family => CspC (naming convention as in E.coli)   [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 | 99287.12]
+atggcaaagattaaaggtcaagttaagtggttcaacgaatccaaaggttttggcttcatt
+actccggctgacggcagcaaagatgtgttcgtacacttctccgctatccagggcaatggt
+ttcaaaactctggctgaaggccagaacgttgagttcgaaattcaggacggccagaaaggt
+ccggctgctgttaacgtaacagctatctga
+>fig|99287.12.peg.2113|STM1996|VBISalEnt20916_2113|   Cold shock protein of CSP family => CspB/CspG/CspI (naming convention as in E.coli)   [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 | 99287.12]
+atgacgacgaaaatcactggtttagtaaaatggtttaaccctgaaaagggctttggtttc
+attacgcctaaagatggcagcaaagatgtgtttgtgcatttttcagccattcaaagtaat
+gaattccgcactctgaatgaaaatcaggaagtggagttttcagtagagcagggaccaaaa
+ggtccatcagcggtcaacgttgtggcgctttaa
+>fig|99287.12.peg.3860|STM3649|VBISalEnt20916_3860|   Cold shock protein of CSP family => CspA (naming convention as in E.coli)   [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 | 99287.12]
+atgtccggtaaaatgactggtatcgtaaaatggttcaacgctgataaaggcttcggcttt
+attactcctgatgacggttctaaagacgtgttcgtacacttctccgctattcagaacgat
+ggttacaaatctctggacgaaggtcagaaagtttccttcaccatcgaaagcggcgctaag
+ggcccggcagctggcaacgtaaccagcctgtaa
+>fig|99287.12.peg.663|STM0629|VBISalEnt20916_0663|   Cold shock protein of CSP family => CspE (naming convention as in E.coli)   [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 | 99287.12]
+atgtctaagattaaaggtaacgttaagtggtttaatgaatccaaaggattcggtttcatt
+actccggaagatggcagcaaagacgtgtttgtacacttctctgcaatccagaccaatggt
+tttaaaactctggctgaaggtcagcgcgtagagttcgaaatcactaacggtgccaaaggc
+ccttccgctgcaaacgtaactgctctgtaa
+>cspC_Aquifex_aeolicus
+atgtcgttcagaggcacagttaagtggtttagcaaggacaagggttacgggttcattacccgtgaggacacaaacgcagacgtttttgtccactttaccgatatccagatggagggtttcaagacccttcaaaaaggtcaaaaagtagagtttgacgtagttgaagacacaaaaggtccaagggctaaaaacgtaagagttttgggcgagtaa
+>cspD_PM0481_Pasteurella multocida subsp. multocida str. Pm70
+atggaagttggtgtagttaaatggttcaataacgcgaaaggatttggattcatttctgca
+gaaggaacagacgcagatatttttgcgcattactcagtcatcgaaatggaaggctaccgt
+tcattaaaagcgggtcaaaaagtgcaatttgaagtcgtacatggcgataaaggatcacat
+gcgacgaaaattattccaatcgttgaataa
+>HI1434.1_CspD_Haemophilus_influenzae
+atggaaattggtattgtaaaatggttcaataatgcaaaaggatttggtttcatttccgca
+gaaggtgtagatgccgatatttttgcacattattcagtgattgaaatggacggctatcgt
+tcattaaaagcgggtcaaaaagtacaatttgaagttctccacagcgataaaggatctcac
+gccacaaaaataatcccaattgcggatactcaagaataa
+
